@@ -1,0 +1,14 @@
+[gd_resource type="Environment" load_steps=2 format=3 uid="uid://cvy5t0wl1v0d6"]
+
+[sub_resource type="Sky" id="1"]
+radiance_size = 1
+
+[resource]
+background_mode = 2
+sky = SubResource("1")
+tonemap_mode = 2
+tonemap_white = 6.0
+glow_levels/7 = 1.0
+glow_strength = 0.79
+glow_bloom = 1.0
+glow_blend_mode = 0
