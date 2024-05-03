@@ -4,6 +4,8 @@ This is a project I started working on when I first used Godot and including a l
 Kinematic character demo for 3D using a cube for the character.
 This is similar to the 3D platformer demo.
 
+you need to download Godot and import the project in the software 
+
 ## Screenshots
 
 ![Screenshot](screenshots/ingame.png)
